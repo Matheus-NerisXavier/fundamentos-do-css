@@ -1,0 +1,15 @@
+p#text.green {
+  color: black;
+}
+
+#text {
+  color: blue;
+}
+
+.green {
+  color: green;
+}
+
+p {
+  color: red;
+}
