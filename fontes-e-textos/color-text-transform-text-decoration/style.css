@@ -1,0 +1,15 @@
+p {
+  /* text-transform: uppercase; */
+  /* text-transform: lowercase; */
+  /* text-transform: capitalize; */
+}
+
+mark {
+  color: red;
+  text-transform: uppercase;
+}
+
+a {
+  /* text-decoration: overline red dashed; */
+  text-decoration: none;
+}
