@@ -1,0 +1,10 @@
+div, span {
+  width: 200px;
+  border: solid;
+  height: 100px;
+}
+
+.padding {
+  box-sizing: border-box;
+  padding: 20px 40px 0 10px;
+}
