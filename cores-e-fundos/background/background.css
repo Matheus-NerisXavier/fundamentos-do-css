@@ -1,0 +1,18 @@
+/* .
+  background-color
+  background-image
+  background-repeat 
+*/
+
+body {
+  /* background-color: #000; */
+  background-image: url('');
+}
+
+div {
+  width: 200px;
+  height: 200px;
+  background-color: blue;
+  background-image: url('');
+  background-repeat: no-repeat;
+}
