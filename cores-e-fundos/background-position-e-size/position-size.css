@@ -1,0 +1,13 @@
+/*
+  background-position
+  background-size
+*/
+
+body {
+  background-image: url("");
+  background-position: no-repeat;
+  /* background-position-x: right; */
+  /* background-position-y: center; */
+  background-position: center bottom;
+  background-size: 100%;
+}
